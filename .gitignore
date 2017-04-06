@@ -1,0 +1,6 @@
+.DS_Store
+
+*.p
+
+# Ignore downloaded datasets
+load_data/
